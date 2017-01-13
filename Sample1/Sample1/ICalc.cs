@@ -13,5 +13,7 @@ namespace Sample1
         double Div(double x, double y);
 
         double DivD(double x, double y);
+
+        void Mult();
     }
 }

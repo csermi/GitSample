@@ -23,5 +23,8 @@ namespace Sample1
             return 0;
         }
 
+        public void Mult()
+        {
+        }
     }
 }
