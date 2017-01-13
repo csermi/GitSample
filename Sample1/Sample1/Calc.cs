@@ -16,5 +16,9 @@ namespace Sample1
         {
         }
 
+        public double DivD(double x, double y)
+        {
+        }
+
     }
 }
