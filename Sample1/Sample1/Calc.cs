@@ -10,6 +10,7 @@ namespace Sample1
     {
         public double Add(double x, double y)
         {
+            Console.WriteLine("add");
             return 0;
         }
 
