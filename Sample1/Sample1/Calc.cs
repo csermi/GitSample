@@ -10,7 +10,11 @@ namespace Sample1
     {
         public double Add(double x, double y)
         {
-            
         }
+
+        public double Div(double x, double y)
+        {
+        }
+
     }
 }
